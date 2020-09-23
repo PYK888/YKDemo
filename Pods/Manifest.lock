@@ -1,0 +1,16 @@
+PODS:
+  - YKNetworking (0.1.0)
+
+DEPENDENCIES:
+  - YKNetworking (from `Lib/YKNetworking`)
+
+EXTERNAL SOURCES:
+  YKNetworking:
+    :path: Lib/YKNetworking
+
+SPEC CHECKSUMS:
+  YKNetworking: a922b8924fdfabdf2059245d3d60db711ebc9e43
+
+PODFILE CHECKSUM: d002115a13f3b0ef64387f045b9d76a71851f6fa
+
+COCOAPODS: 1.9.3

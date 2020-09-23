@@ -1,0 +1,6 @@
+framework module Pods_YKDemo_YKDemoUITests {
+  umbrella header "Pods-YKDemo-YKDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
